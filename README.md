@@ -1,4 +1,4 @@
-# Projeto-Iluminação
+# Projeto Iluminação
 
 <img src="imagens/html-css-js.png" alt="Logo" align="left" width="160">
 
