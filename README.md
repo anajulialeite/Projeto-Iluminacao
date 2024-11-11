@@ -7,3 +7,7 @@ Este é um site que você pode escolher uma cor, ajustar a iluminação e o cont
 Espero que você tenha gostado, divirta-se!
 
 Este é o link do meu projeto: https://anajulialeite.github.io/Projeto-Iluminacao/
+
+# Licinse
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
