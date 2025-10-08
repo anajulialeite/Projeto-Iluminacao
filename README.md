@@ -14,6 +14,6 @@ Este é o link do meu <a href= "https://anajulialeite.github.io/Projeto-Iluminac
 
 <img src="imagens/Captura de tela 2025-10-08 023537.png" alt="Iluminação" align="center" width="300">
 
-## Licinse
+## License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-%231C003F.svg)](./LICENSE)
