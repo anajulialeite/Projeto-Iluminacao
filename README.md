@@ -8,7 +8,7 @@ Espero que você tenha gostado, divirta-se!
 
 ## Link do projeto
 
-Este é o link do meu <a href= "https://anajulialeite.github.io/Projeto-Iluminacao//">Projeto Iluminacao</a>
+Este é o link do meu projeto <a href= "https://anajulialeite.github.io/Projeto-Iluminacao//">Iluminacao</a>
 
 ## Demonstração
 
